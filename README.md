@@ -24,7 +24,7 @@ Each notebook is paired with a **video walkthrough** that includes code explanat
 ---
 
 ### 2. Fine-tuning a Pretrained Backbone
-- **Notebook**: [Finetuning_Pretrained_Backbone.ipynb](colab_link_here)
+- **Notebook**: https://colab.research.google.com/drive/1Up9ri57hsTjIVemFTdo4-jAx2wKmEKlh?usp=sharing
 - **Description**: Fine-tunes a transformer model (e.g., BERT) for a specific downstream task such as sentiment analysis.
 - **Key Concepts**:
   - Transfer learning and model adaptation

@@ -84,5 +84,3 @@ Each notebook is accompanied by a recorded video tutorial that explains:
 
 ---
 
-## 📁 Folder Structure
-

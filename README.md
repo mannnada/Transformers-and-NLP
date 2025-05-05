@@ -20,7 +20,6 @@ Each notebook is paired with a **video walkthrough** that includes code explanat
   - Loading pretrained models from Keras NLP or Hugging Face
   - Preprocessing input text
   - Generating predictions and interpreting outputs
-- **Video Walkthrough**: [Watch on YouTube](video_link_here)
 
 ---
 
@@ -31,7 +30,6 @@ Each notebook is paired with a **video walkthrough** that includes code explanat
   - Transfer learning and model adaptation
   - Tokenization and dataset preparation
   - Evaluation and performance tracking
-- **Video Walkthrough**: [Watch on YouTube](video_link_here)
 
 ---
 
@@ -42,7 +40,6 @@ Each notebook is paired with a **video walkthrough** that includes code explanat
   - Self-attention and multi-head attention
   - Positional encoding
   - Encoder structure and training
-- **Video Walkthrough**: [Watch on YouTube](video_link_here)
 
 ---
 
@@ -78,7 +75,7 @@ These are automatically installed in Colab:
 ---
 
 ## 🎥 About the Videos
-
+Video : youtube video link
 Each notebook is accompanied by a recorded video tutorial that explains:
 - Task goals and dataset choices
 - Step-by-step implementation

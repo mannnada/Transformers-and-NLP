@@ -14,7 +14,7 @@ Each notebook is paired with a **video walkthrough** that includes code explanat
 ## 📘 Notebooks Overview
 
 ### 1. Inference with a Pretrained Classifier
-- **Notebook**: [Inference_Pretrained_Classifier.ipynb](colab_link_here)
+- **Notebook**: https://colab.research.google.com/drive/1PW1ycOEGEl6_EPZdAY2ojK1KFJY2ZRVh?usp=sharing
 - **Description**: Demonstrates how to use pretrained models for tasks like text classification, sentiment analysis, and text generation.
 - **Key Concepts**:
   - Loading pretrained models from Keras NLP or Hugging Face

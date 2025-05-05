@@ -34,7 +34,7 @@ Each notebook is paired with a **video walkthrough** that includes code explanat
 ---
 
 ### 3. Building a Transformer from Scratch
-- **Notebook**: [Transformer_From_Scratch.ipynb](colab_link_here)
+- **Notebook**: https://colab.research.google.com/drive/1D7FBntdfdhRlx0sZam7EWtEMpehQxW9V?usp=sharing
 - **Description**: Implements a custom Transformer architecture for text classification to gain deep understanding of its components.
 - **Key Concepts**:
   - Self-attention and multi-head attention

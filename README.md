@@ -75,7 +75,7 @@ These are automatically installed in Colab:
 ---
 
 ## 🎥 About the Videos
-Video : youtube video link
+Video : https://youtu.be/_pO52qGS-XU
 Each notebook is accompanied by a recorded video tutorial that explains:
 - Task goals and dataset choices
 - Step-by-step implementation
